@@ -10700,8 +10700,8 @@
 						</mask>
 						<g mask="url(#mask3_2_)">
 						</g>
-						<text transform="matrix(1 0 0 1 -149.3409 -66.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="6px">medium.com/@abhishek_pal/new-story</text>
-						<text transform="matrix(1 0 0 1 -144.3409 -77.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="5px">medium.com</text>
+						<text transform="matrix(1 0 0 1 -149.3409 -66.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="6px">facebook.com/abheedevta/videos_by</text>
+						<text transform="matrix(1 0 0 1 -144.3409 -77.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="5px">facebook</text>
 						<text transform="matrix(1 0 0 1 -74.3409 -77.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="5px">github.com - notifications</text>
 						<rect x="3.7" y="-82.4" fill="#FFFFFF" width="5.5" height="5.5"/>
 						<text transform="matrix(1 0 0 1 13.6591 -77.7739)" fill="#292E30" font-family="'Roboto-Regular'" font-size="5px">stackoverflow - how to vert...</text>
@@ -10765,18 +10765,17 @@
 						</g>
 						<text transform="matrix(1 0 0 1 53.9676 -34.8137)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/code/projects/open-source </text>
 						<text transform="matrix(1 0 0 1 134.7676 -34.8137)" fill="#D83E33" font-family="'Roboto-Regular'" font-size="6px">$</text>
-						<text transform="matrix(1 0 0 1 144.1676 -34.8137)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px"> ls /</text>
-						<text transform="matrix(1 0 0 1 53.9676 -25.8137)" fill="#61CAD1" font-family="'Roboto-Regular'" font-size="6px">albinotonnina.com-source   some-webpack-plugin      bandit-css-framework</text>
+						<text transform="matrix(1 0 0 1 144.1676 -34.8137)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">ls /</text>
+						<text transform="matrix(1 0 0 1 53.9676 -25.8137)" fill="#61CAD1" font-family="'Roboto-Regular'" font-size="6px">abhishekpal-source   flutter-tutorial-demo      bandit-css-framework</text>
 						<text transform="matrix(1 0 0 1 53.9676 -16.8137)" fill="#61CAD1" font-family="'Roboto-Regular'" font-size="6px">docker-boilerplate                  design-system-tools         mmarkdown   </text>
 						<text transform="matrix(1 0 0 1 53.9676 -7.8137)" fill="#61CAD1" font-family="'Roboto-Regular'" font-size="6px">react-truncate                         react-magic-hat                 yet-another-react-library</text>
 						<text transform="matrix(1 0 0 1 53.9676 1.1863)" fill="#61CAD1" font-family="'Roboto-Regular'" font-size="6px">           </text>
 						<text transform="matrix(1 0 0 1 53.9676 10.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/code/projects/open-source </text>
 						<text transform="matrix(1 0 0 1 134.7676 10.1863)" fill="#D83E33" font-family="'Roboto-Regular'" font-size="6px">$</text>
-						<text transform="matrix(1 0 0 1 138.1676 10.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px"> cd albinotonnina.com-sourc</text>
-						<text transform="matrix(1 0 0 1 214.0676 10.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">e</text>
-						<text transform="matrix(1 0 0 1 53.9676 19.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/code/projects/os/albinotonnina.com-source </text>
-						<text transform="matrix(1 0 0 1 180.2676 19.1863)" fill="#D83E33" font-family="'Roboto-Regular'" font-size="6px">$</text>
-						<text transform="matrix(1 0 0 1 183.5676 19.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px"> yarn start:contacts</text>
+						<text transform="matrix(1 0 0 1 138.1676 10.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">cd flutter-tutorial-demo</text>
+						<text transform="matrix(1 0 0 1 53.9676 19.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/code/projects/open-source/flutter-tutorial-demo</text>
+						<text transform="matrix(1 0 0 1 190.2676 19.1863)" fill="#D83E33" font-family="'Roboto-Regular'" font-size="6px">$</text>
+						<text transform="matrix(1 0 0 1 195.5676 19.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px"> flutter run</text>
 						<rect x="53.7" y="37.7" fill="#EEEEEE" width="3.8" height="6.9"/>
 					</g>
 					<g id="terminal2">
@@ -10830,7 +10829,7 @@
 								<use xlink:href="#terminal2textclip"  overflow="visible"/>
 							</clipPath>
 							<g clip-path="url(#terminal2textclip_1_)" enable-background="new    ">
-								<text transform="matrix(1 0 0 1 13.9676 65.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/albinotonnina-website</text>
+								<text transform="matrix(1 0 0 1 13.9676 65.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/abhishekpal-website</text>
 							</g>
 							<g clip-path="url(#terminal2textclip_1_)" enable-background="new    ">
 								<text transform="matrix(1 0 0 1 85.9676 65.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">run scene contacts</text>
@@ -10842,7 +10841,7 @@
 						<g id="terminal2line2">
 							<text transform="matrix(1 0 0 1 80.6676 77.1863)" fill="#D83E33" font-family="'Roboto-Regular'" font-size="6px">$</text>
 							<text transform="matrix(1 0 0 1 85.9676 77.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">running....</text>
-							<text transform="matrix(1 0 0 1 13.9676 77.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/albinotonnina-website     </text>
+							<text transform="matrix(1 0 0 1 13.9676 77.1863)" fill="#EEEEEE" font-family="'Roboto-Regular'" font-size="6px">~/abhishekpal-website     </text>
 						</g>
 						<rect id="terminal2cursor" x="85.8" y="59.7" fill="#EEEEEE" width="3.8" height="6.9"/>
 					</g>
