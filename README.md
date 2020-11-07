@@ -3,7 +3,7 @@
 
 # abhishekpal.ml
 
-[www.abhishekpal.me](http://www.abhishekpal.ml) - source code
+[www.abhishekpal.me](http://www.abhishekpal.me) - source code
 
 ## Install
 
