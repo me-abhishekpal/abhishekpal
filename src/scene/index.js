@@ -49,11 +49,6 @@ export default function scene(props) {
       window.open("https://www.linkedin.com/in/me-abhishekpal/");
     });
   });
-  React.useEffect(() => {
-    document.querySelector("#githubbutton").addEventListener("click", () => {
-      window.open("https://github.com/abhee4/abheecorp/");
-    });
-  });
 
   return <Svg width={props.width} height={props.height} />;
 }
